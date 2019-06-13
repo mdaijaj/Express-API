@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Web Scraping 101",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 1,
+    "exercise": [
+      {
+        "course_id": 1,
+        "exercise_id": 1,
+        "name": "Introduction to web Scraping",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "submission": [
+          {
+            "user_id": 1,
+            "content": "kuch nahi hota hai.",
+            "username": "aman"
+          },
+          {
+            "content": "There is mistake somewhere and also android tutorials bhiya",
+            "username": "aijaj",
+            "user_id": 2
+          },
+          {
+            "user_id": 3,
+            "username": "prakash",
+            "content": "what the fuck"
+          },
+          {
+            "user_id": 4,
+            "username": "prakash",
+            "content": "what the hell are you doing"
+          }
+        ]
+      },
+      {
+        "course_id": 1,
+        "exercise_id": 2,
+        "name": "hello",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submission": [
+          {
+            "user_id": 1,
+            "content": "nice tutorials",
+            "username": "rohit"
+          },
+          {
+            "content": "good online resource to study",
+            "username": "canda",
+            "user_id": 2
+          },
+          {
+            "user_id": 3,
+            "username": "prakash",
+            "content": "very nice articals but if there are available pictures than so nice articals"
+          },
+          {
+            "user_id": 4,
+            "username": "kishan",
+            "content": "there is limited something and add something."
+          },
+          {
+            "user_id": 5,
+            "username": "prince",
+            "content": "o really bhiya there will be some add data in onther course"
+          }
+        ]
+      }
+    ]
+  }
+]

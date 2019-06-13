@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Web Scraping 101",
+    "description": "python course this is full course of 4th months"
+  },
+  {
+    "id": 2,
+    "name": "Introduction to HTML",
+    "description": "html course this is full course of 4th months"
+  },
+  {
+    "id": 3,
+    "name": "Hangman",
+    "description": "this is good opurtunality of manthan and learn new thiings"
+  },
+  {
+    "id": 4,
+    "name": "Introduction to CSS",
+    "description": "this is good opurtunality of manthan and learn new thiings"
+  },
+  {
+    "id": 5,
+    "name": "How to use linux ",
+    "description": "python course this is full course of 4th months"
+  },
+  {
+    "id": 6,
+    "name": "Database on python",
+    "description": "this is good opurtunality of manthan and learn new thiings"
+  },
+  {
+    "id": 7,
+    "name": "Programming exercise of Amar",
+    "description": "python course this is full course of 4th months"
+  }
+]

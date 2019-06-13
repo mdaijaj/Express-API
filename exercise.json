@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Web Scraping 101",
+    "description": "In this course we learn Python.",
+    "id": 1,
+    "exercise": [
+      {
+        "course_id": 1,
+        "name": "Introduction to web Scraping",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!",
+        "id": 1
+      },
+      {
+        "course_id": 1,
+        "name": "Project Introduction",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "---Hello! Yeh ek hint hai!!!",
+        "id": 2
+      }
+    ]
+  },
+  {
+    "name": "Introduction to HTML",
+    "description": "In this course we learn about Nodejs express.",
+    "id": 2,
+    "exercise": [
+      {
+        "course_id": 2,
+        "name": "Brochure Introduction",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!",
+        "id": 1
+      },
+      {
+        "course_id": 2,
+        "id": 3,
+        "name": "Kindness one part",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "---Hello! Yeh ek hint hai!!!"
+      }
+    ]
+  }
+]
